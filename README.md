@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Youssef Bikouche</h1>
-<h3 align="center">IoT & Big Data Master's student · AI/LLM Engineer · Automotive AI Intern @ Capgemini Engineering</h3>
+<h3 align="center">IoT & Big Data Master's student · AI/LLM Engineer · AI Intern @ Capgemini Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ofgxdq1f8uxwhlo89uwllmmqbmc2sj57ko09vq6b&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
@@ -8,9 +8,9 @@
 </p>
 
 - Pursuing a **Master's in IoT & Big Data** at **INPT**, Rabat
-- Working on my **PFE** with **Capgemini Engineering** — building **ReqVerifier**, an AI-powered requirements quality checker for automotive telematics specs (Stellantis/CIHU-DICD standard)
-- Passionate about **LLMs**, **NLP**, **AI for automotive & embedded systems**, and **requirements engineering**
-- Currently exploring **LLM benchmarking**, **structured outputs with Pydantic**, and **hybrid AI/rule-based pipelines**
+- Working on my **PFE** with **Capgemini Engineering** — building **ReqVerifier**, an AI-powered requirements quality checker .
+- Passionate about **LLMs**, **AI for automotive & embedded systems**, and **requirements engineering**
+- Currently exploring **LLM benchmarking**, and **hybrid AI/rule-based pipelines**
 - Also into **Web Development**, **IoT**, **Big Data**, and **Data Science**
 - Reach me at: **youssefbikouche@gmail.com**
 
